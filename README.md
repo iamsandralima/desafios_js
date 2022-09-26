@@ -2,4 +2,4 @@
 ## ☕️ Trilha JavaScript Developer- Exercícios ☕️
 
 
-![js_sandra](https://user-images.githubusercontent.com/107657763/192344529-bd7eed40-b584-456b-953f-ada82658c338.png)
+![girl code](https://user-images.githubusercontent.com/107657763/192363598-548446f1-946d-45f8-a9f3-ec2c56e6a889.png)
